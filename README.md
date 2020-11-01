@@ -2,9 +2,10 @@
 
 Thanks for checking out this repo [AP-Covid-Tracker-Webapp](https://github.com/beharavenkatasatyaprasad/AP-Covid-Tracker-Webapp).
 
-Click [here](https://covid19-ap-webapp.netlify.app/) to preview the app.
 
 ## The Webapp
+
+Click [here](https://covid19-ap-webapp.netlify.app/) to preview the app.
 
 This app is to integrate myself with the [Covid India API](https://api.covid19india.org) (district-wise) to pull data and display it.
 
